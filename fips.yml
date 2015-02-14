@@ -1,0 +1,6 @@
+#
+# fips-sauce
+#
+---
+exports :
+    header-dirs : [ sauce/sauce ]
