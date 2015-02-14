@@ -3,4 +3,4 @@
 #
 ---
 exports :
-    header-dirs : [ sauce/sauce ]
+    header-dirs : [ sauce ]
